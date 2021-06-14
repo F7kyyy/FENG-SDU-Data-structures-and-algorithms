@@ -397,5 +397,4 @@ int main()
             tree.del(b - 1);
         }
     }
-    //tree.inOrder(tree.root);
 }
